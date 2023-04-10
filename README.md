@@ -20,18 +20,18 @@ Finally, the program prints out the resulting array, sum, which contains the sum
 ![arrayadd](https://user-images.githubusercontent.com/125993593/230862290-c7bf26ca-a130-443b-9536-94ca082cd7da.png)
 
 ## Algorithm
-start
-1.  Declare integer variables size and i.
-2.  Prompt the user to enter the size of the arrays.
-3.  Read the user's input for size using scanf().
-4.  Declare three integer arrays arr1, arr2, and sum with size equal to the user's input.
-5.  Prompt the user to enter the elements of the first array.
-6.  Read in the elements of the first array using a for loop that iterates from 0 to size - 1 and store each element in the corresponding index of the arr1 array.
-7.  Prompt the user to enter the elements of the second array.
-8.  Read in the elements of the second array using another for loop that iterates from 0 to size - 1 and store each element in the corresponding index of the arr2    array.
-9.  Add the two arrays element-wise using a for loop that iterates from 0 to size - 1 and store each sum in the corresponding index of the sum array.
-10. Print out the resulting array sum using a for loop that iterates from 0 to size - 1 and print out each element of the array.
-11. End the program.
+1.   start
+2.  Declare integer variables size and i.
+3.  Prompt the user to enter the size of the arrays.
+4.  Read the user's input for size using scanf().
+5.  Declare three integer arrays arr1, arr2, and sum with size equal to the user's input.
+6.  Prompt the user to enter the elements of the first array.
+7.  Read in the elements of the first array using a for loop that iterates from 0 to size - 1 and store each element in the corresponding index of the arr1 array.
+8.  Prompt the user to enter the elements of the second array.
+9.  Read in the elements of the second array using another for loop that iterates from 0 to size - 1 and store each element in the corresponding index of the arr2       array.
+10. Add the two arrays element-wise using a for loop that iterates from 0 to size - 1 and store each sum in the corresponding index of the sum array.
+11. Print out the resulting array sum using a for loop that iterates from 0 to size - 1 and print out each element of the array.
+12. End the program.
 
 
 
