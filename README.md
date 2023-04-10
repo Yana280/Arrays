@@ -20,6 +20,7 @@ Finally, the program prints out the resulting array, sum, which contains the sum
 ![arrayadd](https://user-images.githubusercontent.com/125993593/230862290-c7bf26ca-a130-443b-9536-94ca082cd7da.png)
 
 ## Algorithm
+start
 1.  Declare integer variables size and i.
 2.  Prompt the user to enter the size of the arrays.
 3.  Read the user's input for size using scanf().
@@ -27,11 +28,10 @@ Finally, the program prints out the resulting array, sum, which contains the sum
 5.  Prompt the user to enter the elements of the first array.
 6.  Read in the elements of the first array using a for loop that iterates from 0 to size - 1 and store each element in the corresponding index of the arr1 array.
 7.  Prompt the user to enter the elements of the second array.
-8.  Read in the elements of the second array using another for loop that iterates from 0 to size - 1 and store each element in the corresponding index of the arr2 array.
+8.  Read in the elements of the second array using another for loop that iterates from 0 to size - 1 and store each element in the corresponding index of the arr2    array.
 9.  Add the two arrays element-wise using a for loop that iterates from 0 to size - 1 and store each sum in the corresponding index of the sum array.
 10. Print out the resulting array sum using a for loop that iterates from 0 to size - 1 and print out each element of the array.
 11. End the program.
-
 
 
 
